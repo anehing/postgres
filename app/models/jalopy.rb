@@ -1,0 +1,2 @@
+class Jalopy < ApplicationRecord
+end
